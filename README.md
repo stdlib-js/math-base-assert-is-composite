@@ -50,7 +50,7 @@ A **composite number** is defined as a positive integer value greater than `1` w
 ## Usage
 
 ```javascript
-import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@deno/mod.js';
+import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@v0.3.0-deno/mod.js';
 ```
 
 #### isComposite( x )
@@ -79,7 +79,7 @@ var bool = isComposite( 4.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@deno/mod.js';
+import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@v0.3.0-deno/mod.js';
 
 var bool = isComposite( 4.0 );
 // returns true
