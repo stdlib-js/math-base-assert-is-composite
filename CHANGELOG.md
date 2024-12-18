@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-18)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5b4c5ca`](https://github.com/stdlib-js/stdlib/commit/5b4c5cadb3d2fed46829dbf32f217726658e46bb) - **bench:** resolve lint errors _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
@@ -60,7 +62,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`f36cfab`](https://github.com/stdlib-js/stdlib/commit/f36cfab3875404fd9c58b6e2a6fedca5e04cb4d9) - **chore:** update package meta data [(#2014)](https://github.com/stdlib-js/stdlib/pull/2014) _(by stdlib-bot)_
 -   [`2c3c709`](https://github.com/stdlib-js/stdlib/commit/2c3c709353a0821a187ff63251a296f558f951a1) - **docs:** update related packages sections [(#1941)](https://github.com/stdlib-js/stdlib/pull/1941) _(by stdlib-bot)_
--   [`8dffd8f`](https://github.com/stdlib-js/stdlib/commit/8dffd8fa583fee296d10091ca9323b17dc8a76f0) - **feat:** add C implementation for `math/base/assert/is-composite` _(by Rutam, Pranav, Philipp Burckhardt)_
+-   [`8dffd8f`](https://github.com/stdlib-js/stdlib/commit/8dffd8fa583fee296d10091ca9323b17dc8a76f0) - **feat:** add C implementation for `math/base/assert/is-composite` _(by Rutam Kathale, Pranav, Philipp Burckhardt)_
 
 </details>
 
@@ -76,7 +78,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Philipp Burckhardt
 -   Pranav Goswami
--   Rutam
+-   Rutam Kathale
 
 </section>
 
