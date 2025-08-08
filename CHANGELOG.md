@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-08-08)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - add missing includes
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - **fix:** add missing includes _(by Athan Reines)_
+-   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`dededfd`](https://github.com/stdlib-js/stdlib/commit/dededfdc6102931758f0a12955d0054df893d849) - **bench:** update random value generation [(#6682)](https://github.com/stdlib-js/stdlib/pull/6682) _(by Harsh)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5b4c5ca`](https://github.com/stdlib-js/stdlib/commit/5b4c5cadb3d2fed46829dbf32f217726658e46bb) - **bench:** resolve lint errors _(by Athan Reines)_
