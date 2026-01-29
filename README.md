@@ -50,6 +50,11 @@ A **composite number** is defined as a positive integer value greater than `1` w
 ## Usage
 
 ```javascript
+import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-assert-is-composite/tags). For example,
+
+```javascript
 import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@v0.3.1-esm/index.mjs';
 ```
 
@@ -84,7 +89,7 @@ var bool = isComposite( 4.0 );
 <body>
 <script type="module">
 
-import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@v0.3.1-esm/index.mjs';
+import isComposite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-composite@esm/index.mjs';
 
 var bool = isComposite( 4.0 );
 // returns true
