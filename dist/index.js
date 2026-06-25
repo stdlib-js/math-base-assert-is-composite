@@ -1,5 +1,5 @@
-"use strict";var t=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var s=t(function(c,i){
-var u=require('@stdlib/math-base-assert-is-prime/dist'),a=require('@stdlib/math-base-assert-is-integer/dist'),n=require('@stdlib/constants-float64-pinf/dist');function o(r){return a(r)&&r>1&&r!==n&&u(r)===!1}i.exports=o
-});var q=s();module.exports=q;
+"use strict";var u=function(r,e){return function(){try{return e||r((e={exports:{}}).exports,e),e.exports}catch(t){throw (e=0, t)}};};var s=u(function(m,i){
+var a=require('@stdlib/math-base-assert-is-prime/dist'),n=require('@stdlib/math-base-assert-is-integer/dist'),o=require('@stdlib/constants-float64-pinf/dist');function q(r){return n(r)&&r>1&&r!==o&&a(r)===!1}i.exports=q
+});var v=s();module.exports=v;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
